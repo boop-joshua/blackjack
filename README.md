@@ -33,7 +33,6 @@ npm run serve
 Open your web browser and navigate to http://localhost:8080 to see the application in action.
 
 **How to Play Blackjack**
-*Objective
 The objective of Blackjack is to beat the dealer by having a hand value closer to 21 without exceeding 21.
 
 Basic Rules
